@@ -1,0 +1,9 @@
+   .custom-gutter {
+        margin-right: -15px; /* Menyesuaikan margin kanan */
+        margin-left: -15px;  /* Menyesuaikan margin kiri */
+    }
+
+    .custom-gutter [class^="col"] {
+        padding-right: 10px; /* Menyesuaikan padding kanan */
+        padding-left: 40px;  /* Menyesuaikan padding kiri */
+    } 
